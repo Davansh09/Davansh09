@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Davansh09
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Full Stack/Mern Stack.
-- 💞️ I’m looking to collaborate on Frontend development projects.
+- 👀 I’m a Aspiring Data Analyst.
+- 💞️ I’m looking to collaborate on data analytics projects.
 - 📫 How to reach me MAIL-choudharydavansh@gmail.com.
 - 😄 Pronouns: Davansh Choudhary.
 - ⚡ Fun fact: I am a Night Owl.
